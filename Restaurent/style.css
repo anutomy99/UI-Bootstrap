@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(188, 248, 201);
+    
+}
+.navbar a{
+    color: black;
+    font-size: small;
+    font-weight: bold;
+}
+
+img.slide{
+    height: 650px;
+}
+.container-fluid a{
+    color: black;
+    font-weight: bold;
+}
+.logo{
+    height: 50px;
+}
+.card{
+    height: 450px;
+    box-shadow: 2px 2px 5px rgb(125, 122, 122);
+}
+.card img{
+    height: 200px;
+}
+#orders{
+    height: 1100px;
+    padding-left: 150px;
+
+}
+#location{
+    height: 350px;
+    background-color: rgb(188, 248, 201);
+
+    /* background-color: aquamarine; */
+}
+.social-icon a i{
+    color: rgb(255, 0, 153);
+}
